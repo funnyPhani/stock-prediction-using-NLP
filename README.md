@@ -1,1 +1,1 @@
-# stock-prediction-using-NLP
+# Stock-Sentiment-Analysis
